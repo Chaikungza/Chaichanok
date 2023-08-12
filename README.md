@@ -15,5 +15,5 @@ I'm Chaichanok,Industrial Engineer who interesting in the Data Analyse Path.
 # SQL
 | Project Name | Scope | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/Chaikungza/SQL-Project.git) | Data analysis, ETL | The data set 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It will show my SQL skill writing and problem-solving skills. |
+| 💡 [8-Week SQL Challenges](https://github.com/Chaikungza/SQL-Project.git) | Data analysis, ETL | The data set case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It will show my SQL skill writing and problem-solving skills. |
 |  🏫[Booth Camp Project](https://github.com/Chaikungza/SQL-Project.git) | Setup the data and structure, Data analysis | This is mini project when I learn SQL skill from Bootcamp (Data rockie). Setup the data set as restrurant owner and ETL the data for analyze. |
